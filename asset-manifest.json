@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nodeclient/static/css/main.9d5e7deb.css",
+    "main.js": "/nodeclient/static/js/main.617fb5f8.js",
+    "index.html": "/nodeclient/index.html",
+    "main.9d5e7deb.css.map": "/nodeclient/static/css/main.9d5e7deb.css.map",
+    "main.617fb5f8.js.map": "/nodeclient/static/js/main.617fb5f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d5e7deb.css",
+    "static/js/main.617fb5f8.js"
+  ]
+}
